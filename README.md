@@ -11,19 +11,19 @@ Calculate your rent in a given pay period.
 ### Motivation
 
 Rent is typically paid on a per-month basis, but different months have different
-numbers of days. Therefore, the amount you pay each _day_ in rent is not
+numbers of days. Therefore, the amount paid each _day_ in rent is not
 constant; it depends on the month.
 
-Contrast this with biweekly pay-checks, which are distributed every 2 weeks, and
+Contrast this with biweekly paychecks, which are distributed every 2 weeks, and
 are independent of the number of days in a given month.
 
 The challenge that this library solves is determining how much of each paycheck
 goes toward your rent. Approximating 4 weeks (2 pay checks) per month is fine
-for short time scales, but is inadequate for long-term calculations. For
+for short time scales, but is inadequate for longer-term calculations. For
 instance, over the course of a year that approximation counts a whole extra
 month of rent for the year.
 
-This library calculates exactly how much of a given paycheck is going toward
+This library calculates exactly how much of a given paycheck goes toward
 rent.
 
 ### Installation
