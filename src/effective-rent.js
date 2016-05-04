@@ -19,11 +19,6 @@ function treatAsUTC(date) {
   return result;
 }
 
-// The number of days since the month began
-function daysSinceMonthBegan(date) {
-  return date.getDate();
-}
-
 // Returns a Date in the month following `date`
 function getNextMonth(date) {
   if (date.getMonth() == 11) {
