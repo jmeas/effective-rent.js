@@ -2,11 +2,11 @@
 
 Calculate your rent in a given pay period.
 
-[![Travis build status](http://img.shields.io/travis/jmeas/effective-rent.svg?style=flat)](https://travis-ci.org/jmeas/effective-rent)
-[![Code Climate](https://codeclimate.com/github/jmeas/effective-rent/badges/gpa.svg)](https://codeclimate.com/github/jmeas/effective-rent)
-[![Test Coverage](https://codeclimate.com/github/jmeas/effective-rent/badges/coverage.svg)](https://codeclimate.com/github/jmeas/effective-rent)
-[![Dependency Status](https://david-dm.org/jmeas/effective-rent.svg)](https://david-dm.org/jmeas/effective-rent)
-[![devDependency Status](https://david-dm.org/jmeas/effective-rent/dev-status.svg)](https://david-dm.org/jmeas/effective-rent#info=devDependencies)
+[![Travis build status](http://img.shields.io/travis/jmeas/effective-rent.js.svg?style=flat)](https://travis-ci.org/jmeas/effective-rent.js)
+[![Code Climate](https://codeclimate.com/github/jmeas/effective-rent.js/badges/gpa.svg)](https://codeclimate.com/github/jmeas/effective-rent.js)
+[![Test Coverage](https://codeclimate.com/github/jmeas/effective-rent.js/badges/coverage.svg)](https://codeclimate.com/github/jmeas/effective-rent.js)
+[![Dependency Status](https://david-dm.org/jmeas/effective-rent.js.svg)](https://david-dm.org/jmeas/effective-rent.js)
+[![devDependency Status](https://david-dm.org/jmeas/effective-rent.js/dev-status.svg)](https://david-dm.org/jmeas/effective-rent.js#info=devDependencies)
 
 ### Motivation
 
