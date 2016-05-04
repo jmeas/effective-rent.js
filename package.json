@@ -1,6 +1,6 @@
 {
   "name": "effective-rent",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Calculate your rent in a given 4 week pay period",
   "main": "dist/effective-rent.js",
   "scripts": {
